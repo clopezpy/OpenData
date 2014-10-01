@@ -6,13 +6,14 @@ Version 1.0 - Mie 01 Oct 2014
 by
 Clara López,
 Lilian Nieto,
-Maira Pereira,
+Maira Pereira
 
 
 Introducción
 ================
-El treemap de Inmuebles del MEC presenta una visualización de los datos acerca de los inmuebles que posee el Ministerio de Educación y Cultura en los diferentes departamentos del Paraguay.
-La visualización es realizada por distritos y la misma está basada en los datos publicados por el MEC en su portal web (http://datos.mec.gov.py/).
+El objetivo del trabajo fue obtener el documento publicado por el Ministerio de Educación y Cultura, y transformar en un formato mas procesable por máquina, ya que el mismo está publicado
+en formato PDF. Se obtuvo un formato CSV, de esta manera se facilita al ciudadano la utilización de los datos.
+
 
 Universidad Nacional de Asunción
 Facultad Politécnica – Sede San Lorenzo, Paraguay
