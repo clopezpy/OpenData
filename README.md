@@ -1,12 +1,13 @@
 Autores
 -------
-# Clara López
-# Lilian Nieto
-# Maira Pereira
 
-Version
-================
-1.0
+Version 1.0 - Mie 01 Oct 2014
+
+by
+Clara López
+Lilian Nieto
+Maira Pereira
+
 
 Introducción
 ================
