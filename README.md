@@ -1,12 +1,12 @@
-Autores
--------
+Inmuebles MEC, Julio 2014
+-------------------------
 
 Version 1.0 - Mie 01 Oct 2014
 
 by
-Clara López
-Lilian Nieto
-Maira Pereira
+Clara López,
+Lilian Nieto,
+Maira Pereira,
 
 
 Introducción
