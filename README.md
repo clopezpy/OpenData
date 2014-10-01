@@ -15,11 +15,11 @@ El objetivo del trabajo fue obtener el documento publicado por el Ministerio de 
 en formato PDF. Se obtuvo un formato CSV, de esta manera se facilita al ciudadano la utilización de los datos.
 
 
-Universidad Nacional de Asunción
-Facultad Politécnica – Sede San Lorenzo, Paraguay
-Carrera Ingeniería en Informática
-10mo Semestre
-Asignatura: Electiva 6 – Datos Abiertos
+Universidad Nacional de Asunción</br>
+Facultad Politécnica – Sede San Lorenzo, Paraguay</br>
+Carrera Ingeniería en Informática</br>
+10mo Semestre</br>
+Asignatura: Electiva 6 – Datos Abiertos</br>
 Año: 2014
 
 Origen de datos <a id="origen_datos"></a>
@@ -28,7 +28,7 @@ Origen de datos <a id="origen_datos"></a>
 URL: http://datos.mec.gov.py/
 https://mega.co.nz/#!84IkjQTD!4FGj6gaMVE1tQL5h348uY1D3lRb_8xOnXB_KK9gNqWw
 
-Configuration  <a id="configuration"></a>
+Configuración  <a id="configuration"></a>
 -------------
 	Table: inmuebles
 
