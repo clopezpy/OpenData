@@ -1,5 +1,5 @@
- Autores
-================
+Autores
+-------
 # Clara López
 # Lilian Nieto
 # Maira Pereira
